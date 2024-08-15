@@ -3,10 +3,18 @@
 I would like to see if the web phone could have a fixed device ID.
 
 
-## Run the project
+## Setup the projecgt
 
 ```
 yarn install
+```
+
+Rename `.env.sample` to `.env` and fill in the credentials.
+
+
+## Run the project
+
+```
 yarn serve
 ```
 
